@@ -4,4 +4,4 @@
 # But after cached, subsequent loads are super fast! ⚡️
 
 import platform
-print(f"Hello Python v{platform.python_version()}!")
+print(f"Hello Python and Hello World v{platform.python_version()}!")
